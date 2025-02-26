@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#map {
+    height: 500px;
+    width: 100%;
+    margin: 20px auto;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin: 5px;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
