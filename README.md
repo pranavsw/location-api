@@ -9,5 +9,11 @@ curl -X POST http://localhost:3000/api/location \
          }'
 
 
+node server.js
+
+
+
 cd frontend
 python3 -m http.server 8080 --bind 0.0.0.0
+
+
